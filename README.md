@@ -8,7 +8,7 @@ A wireframe model is a model of an object in 3D graphics, which is a set of vert
 
 ## Instructons for running
 
-Being in `src` folder run command `make install`
+Being in `src` folder run command `make install`. Then you can run app.
 
 ## Instruction for archiving
 

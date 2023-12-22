@@ -57,7 +57,7 @@ gcov_report: tests
 	genhtml -o report tests.info
 	open ./report/index.html
 
-git:
+git: clean
 	git add -A
 	git commit -m "$m"
 	git push origin "$b"
